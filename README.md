@@ -107,7 +107,7 @@ End-to-end **UI automation framework** for the [Swag Labs demo store](https://ww
 - Covers login and **cart flows** (e.g., add item, cart badge, consistency checks)  
 - Designed to be **maintainable and extendable** with page objects and clear test naming  
 
-> 🔗 Repo: [`saucedemotest`](https://github.com/Ahmad-ELManaseer03/saucedemotest)
+> 🔗 Repo: [`saucedemotest`](https://github.com/Ahmad-ELManaseer03/saucedemo-testautomation)
 
 ---
 
@@ -131,7 +131,7 @@ Automation of **LLM response evaluation** via Postman.
 - Returns clear **`PASS` / `FAIL`** based on whether the answer mentions key concepts  
 - Configured as a **Postman monitor** to run on schedule with logs
 
-> 🧪 Shows ability to mix **LLM behavior + QA thinking + API tooling**.
+> 🔗 Repo: [`graduationprojectECOLACTO`](https://github.com/Ahmad-ELManaseer03/QA-LLM)
 
 ---
 
@@ -184,11 +184,11 @@ A simple **student tool** to estimate letter-grade weights.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmad-ELManaseer03&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-ELManaseer03&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" alt="GitHub Stats" /> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-ELManaseer03&theme=react&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-ELManaseer03&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-ELManaseer03&layout=compact&theme=react&hide_border=true" alt="Top Languages" /> -->
 
 </div>
 
