@@ -131,7 +131,7 @@ Automation of **LLM response evaluation** via Postman.
 - Returns clear **`PASS` / `FAIL`** based on whether the answer mentions key concepts  
 - Configured as a **Postman monitor** to run on schedule with logs
 
-> 🔗 Repo: [`graduationprojectECOLACTO`](https://github.com/Ahmad-ELManaseer03/QA-LLM)
+> 🔗 Repo: [`QA-LLM`](https://github.com/Ahmad-ELManaseer03/QA-LLM)
 
 ---
 
