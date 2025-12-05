@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Ahmad-ELManaseer03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -215,4 +215,4 @@ A simple **student tool** to estimate letter-grade weights.
 - 📬 **Email:** `ahmadelmanaseer03@gmail.com`
 
 > _If you’re building something and want someone to **break it carefully** and give you clear feedback — I’m in._
-```
+
