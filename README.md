@@ -49,7 +49,7 @@ Selenium WebDriver · TestNG · LLM Evaluation (Gemini)
 
 ### 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" height="45" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />
 
 JIRA · MySQL Workbench
 
