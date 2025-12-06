@@ -19,7 +19,7 @@
 
 ## 💼 About Me
 
-I’m a **Management Information Systems graduate** and **Junior QA Engineer**.  
+I’m a **Management Information Systems graduate** and **Quality Assurance Engineer**.  
 I enjoy turning requirements into **clear test cases**, finding bugs, and writing **simple reports** that help developers fix issues fast.
 
 - ✅ 80-hour **QA training** (manual + basic automation)  
@@ -34,9 +34,15 @@ I enjoy turning requirements into **clear test cases**, finding bugs, and writin
 
 ### 🧪 Testing
 
+<!-- Selenium + Java + Postman -->
 <img src="https://skillicons.dev/icons?i=selenium,java,postman" height="45" />
 
+<!-- JMeter من موقع Apache الرسمي -->
+<img src="https://jmeter.apache.org/images/jmeter_square.svg" height="45" />
+
+
 Manual Testing · Smoke · Functional · Regression  
+Performance Testing - JMeter <br>
 Selenium WebDriver · TestNG · LLM Evaluation (Gemini)
 
 ---
@@ -49,9 +55,9 @@ Selenium WebDriver · TestNG · LLM Evaluation (Gemini)
 
 ### 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />
-
-JIRA · MySQL Workbench
+<img src="https://skillicons.dev/icons?i=java,selenium,postman" height="45" />
+<img src="https://jmeter.apache.org/images/jmeter_square.svg" height="45" /><br>
+JIRA · MySQL Workbench - Eclipse
 
 </div>
 
