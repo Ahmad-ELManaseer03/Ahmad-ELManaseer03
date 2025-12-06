@@ -93,7 +93,7 @@ JIRA · MySQL Workbench
 - 🎓 **B.Sc. in Management Information Systems (MIS)** – University of Jordan  
 - 🧪 **Software QA – Manual & Automation (80 hours)** – PSUT  
 - 📘 **ISTQB Foundation Level – Prep Course (Udemy)**  
-- 💻 **Programming From Zero to Hero – Java** – HTU  
+- 💻 **Programming From Zero to Hero – Java** – HTUx  
 
 ---
 
