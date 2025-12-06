@@ -73,7 +73,7 @@ JIRA · MySQL Workbench - Eclipse
 - **Swag Labs – Manual Test Suite**  
   Designed **12+ test cases** (login, add to cart, cart behaviour, checkout, price consistency, sorting) with  
   preconditions, steps, expected/actual result, severity, and priority.  
-
+🔗 Repo: [Swag Labs](https://github.com/Ahmad-ELManaseer03/Swag-Labs.git)
 - **Quality Assurance for Large Language Models – Gemini + Postman**  
   Postman collection that sends prompts to **Gemini 2.0 Flash**, stores responses in environment variables,  
   and calls the model again as an **evaluator (PASS/FAIL)**. Runs as a **Postman monitor**.<br>
