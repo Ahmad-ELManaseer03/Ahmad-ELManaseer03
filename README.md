@@ -6,8 +6,8 @@
 
 ## 👋 Hi, I'm **Ahmad El-Manaseer**
 
-🎯 **Junior QA Engineer (Manual & Automation)** · MIS Graduate  
-📍 Amman, Jordan · 🌐 Open to internships, junior & remote QA roles  
+🎯 **Quality Assurance Engineer (Manual & Automation)** · MIS Graduate  
+📍 Amman, Jordan · 🌐 Open to Work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20El--Manaseer-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmad-elmanaseer03)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmad--ELManaseer03-181717?style=for-the-badge&logo=github)](https://github.com/Ahmad-ELManaseer03)
