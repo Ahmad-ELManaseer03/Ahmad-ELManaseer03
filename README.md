@@ -73,6 +73,12 @@ JIRA · MySQL Workbench
   and calls the model again as an **evaluator (PASS/FAIL)**. Runs as a **Postman monitor**.<br>
 🔗 Repo: [Quality Assurance for Large Language Models](https://github.com/Ahmad-ELManaseer03/QA-LLM.git)
 
+* **JSONPlaceholder API Performance Testing – Apache JMeter**
+  JMeter test plan that load tests the public JSONPlaceholder API (`/users`, `/posts`) with high concurrent virtual users, response assertions, and detailed performance metrics via listeners.<br>
+  🔗 Repo: [JSONPlaceholder Performance Testing (JMeter)](https://github.com/Ahmad-ELManaseer03/JMeter-Project.git)
+
+
+
 - **ECOLACTOS – Lactose-Free Products Platform**  
   Full-stack **PHP + MySQL** project connecting farmers, home cooks, and customers for lactose-free products.<br>
 🔗 Repo: [ECOLACTOS](https://github.com/Ahmad-ELManaseer03/graduationprojectECOLACTO.git)
